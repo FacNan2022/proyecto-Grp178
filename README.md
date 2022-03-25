@@ -18,7 +18,7 @@ Tareas.
 
 1. Barra de Navegacion: Nombre- nombreDeLaPersona.
 2. Banner: Nombre- 
-3. Procesadora: Nombre-
+3. Procesadora: Nancy Echeverria (Porcesadora-Nancy)
 4. Batidora: Nombre-
 5. Pisa Papas: Nombre-
 6. Rallador-Rebanador: Nombre-         (En la foto esta rallador repetido (por error) pero seria "Rallador- Rebanador")
@@ -105,4 +105,4 @@ Para el nav, banner, secciones chica usen los valores que crean relativos a la l
 Aclaraciones: Esto es solo una pagina web de practica. No tiene ninguna rigurosidad o vinculo directo con el modulo y curso. Tampoco hay link de enlaces. Es solo u diseño.
 
 Espero que les guste el desafio. Disculpen el diseño, se hizo lo que se pudo.
-Los inconvenientes de diseño que surgan lo solucionaremos en el camino. 
+Los inconvenientes de diseño que surgan lo solucionaremos en el camino.
